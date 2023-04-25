@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = GloboTicket.TicketManagement.App
+build_property.RootNamespace = GloboTicket.TicketManagement.App
+build_property.ProjectDir = E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.App\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.App
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Beck/Projects/.Net/GloboTicket/GloboTicket.TicketManagement/GloboTicket.TicketManagement.App/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Beck/Projects/.Net/GloboTicket/GloboTicket.TicketManagement/GloboTicket.TicketManagement.App/Components/Pager.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Beck/Projects/.Net/GloboTicket/GloboTicket.TicketManagement/GloboTicket.TicketManagement.App/Pages/AddCategory.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQ2F0ZWdvcnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Beck/Projects/.Net/GloboTicket/GloboTicket.TicketManagement/GloboTicket.TicketManagement.App/Pages/CategoryOverview.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlPdmVydmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Beck/Projects/.Net/GloboTicket/GloboTicket.TicketManagement/GloboTicket.TicketManagement.App/Pages/EventDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnREZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Beck/Projects/.Net/GloboTicket/GloboTicket.TicketManagement/GloboTicket.TicketManagement.App/Pages/EventOverview.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRPdmVydmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Beck/Projects/.Net/GloboTicket/GloboTicket.TicketManagement/GloboTicket.TicketManagement.App/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Beck/Projects/.Net/GloboTicket/GloboTicket.TicketManagement/GloboTicket.TicketManagement.App/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Beck/Projects/.Net/GloboTicket/GloboTicket.TicketManagement/GloboTicket.TicketManagement.App/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Beck/Projects/.Net/GloboTicket/GloboTicket.TicketManagement/GloboTicket.TicketManagement.App/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Beck/Projects/.Net/GloboTicket/GloboTicket.TicketManagement/GloboTicket.TicketManagement.App/Pages/TicketSales.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlja2V0U2FsZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Beck/Projects/.Net/GloboTicket/GloboTicket.TicketManagement/GloboTicket.TicketManagement.App/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Beck/Projects/.Net/GloboTicket/GloboTicket.TicketManagement/GloboTicket.TicketManagement.App/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4aco0ml4mu
+
+[E:/Beck/Projects/.Net/GloboTicket/GloboTicket.TicketManagement/GloboTicket.TicketManagement.App/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-z2gmoceyca

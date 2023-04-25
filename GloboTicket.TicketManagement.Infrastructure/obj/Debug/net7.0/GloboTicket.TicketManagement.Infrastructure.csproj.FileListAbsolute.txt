@@ -1,0 +1,17 @@
+E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net7.0\GloboTicket.TicketManagement.Infrastructure.deps.json
+E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net7.0\GloboTicket.TicketManagement.Infrastructure.dll
+E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net7.0\GloboTicket.TicketManagement.Infrastructure.pdb
+E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net7.0\GloboTicket.TicketManagement.Infrastructure.csproj.AssemblyReference.cache
+E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net7.0\GloboTicket.TicketManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net7.0\GloboTicket.TicketManagement.Infrastructure.AssemblyInfoInputs.cache
+E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net7.0\GloboTicket.TicketManagement.Infrastructure.AssemblyInfo.cs
+E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net7.0\GloboTicket.TicketManagement.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net7.0\GloboTicket.TicketManagement.Infrastructure.dll
+E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net7.0\refint\GloboTicket.TicketManagement.Infrastructure.dll
+E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net7.0\GloboTicket.TicketManagement.Infrastructure.pdb
+E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net7.0\ref\GloboTicket.TicketManagement.Infrastructure.dll
+E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net7.0\GloboTicket.TicketManagement.Application.dll
+E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net7.0\GloboTicket.TicketManagement.Domain.dll
+E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net7.0\GloboTicket.TicketManagement.Application.pdb
+E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net7.0\GloboTicket.TicketManagement.Domain.pdb
+E:\Beck\Projects\.Net\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net7.0\GloboTicket.TicketManagement.Infrastructure.csproj.CopyComplete

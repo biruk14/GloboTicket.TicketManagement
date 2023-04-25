@@ -1,0 +1,53 @@
+﻿@page "/categoryOverview"
+
+<h3>Event Category Overview</h3>
+<br/>
+
+<p><input class="custom-checkbox" type="checkbox" id="includeHistory" onchange="OnIncludeHistoryChanged"/>Include past event?</p>
+
+@if(Categories is null)
+{
+    <p><em>Loading...</em></p>
+}
+else{
+<table>
+    <thead>
+        <tr>
+            <th>Category Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Categories)
+        {
+            <tr>
+                <td>@category.Name</td>
+            </tr>
+            <tr>
+                <td>
+                    <table class="nested-table ms-auto me-auto">
+                        <thead>
+                            <tr>
+                                <th class="category-event-header">Event Name</th>
+                                <th class="category-event-header">Event Date</th>
+                                <th class="category-event-header">Artist</th>
+                                <th class="category-event-header">Price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var ev in category.Events)
+                            {
+                                <tr>
+                                    <td class="event-name">@ev.Name</td>
+                                    <td class="event-date">@ev.Date.ToShortDateString()</td>
+                                    <td class="event-artist">@ev.Artist</td>
+                                    <td class="event-price">@ev.Price</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+}
